@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/northstack/northstack-client)
+
 # northstack-client
 CLI Client and PHP Library to access the NorthStack NorthStack APIs
 
